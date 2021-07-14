@@ -71,3 +71,11 @@ body{
 #list .preview:nth-child(n+5){
     display: none;
 }
+
+.button button{
+    text-decoration: none;
+}
+
+.button button:hover{
+    text-decoration: underline !important;
+}
